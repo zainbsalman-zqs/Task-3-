@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat";
+  
+  }
+  .f-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+:root{
+--zainb-color:white ;
+}
+.color{
+   background-color: var(--zainb-color);
+}
